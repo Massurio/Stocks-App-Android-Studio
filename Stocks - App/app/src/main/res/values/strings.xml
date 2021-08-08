@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="symbol">APPL</string>
+    <string name="price">$2345</string>
+    <string name="change">-3%</string>
+    <string name="perc_change">12%</string>
+    <string name="search">Search Stocks</string>
+    <string name="most_actives">Most Active</string>
+    <string name="top_losers">Top Losers</string>
+    <string name="top_gainers">Top Gainers</string>
+
+    <string name="fm_api_key">5605a3483b0c7624d2e99b0ff3bd704e</string>
+    <string name="alpha_vantage_api_key">K6GTKFDIM2X0H25V</string>
+
+</resources>
